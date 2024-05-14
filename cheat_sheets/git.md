@@ -4,7 +4,8 @@
 
 * Open the terminal
 * Run `ssh-keygen`
-* Copy the contents of the file at `~/.ssh/id_rsa.pub` into your clipboard
+* Take note of the file created. It should be `~/.ssh/id_<protocol>` where `<protocol>` is one of `rsa` or `ed25519`
+* Copy the contents of the file at `~/.ssh/id_<protocol>.pub` into your clipboard. Note the `.pub` ending: do not copy the file without the `.pub` ending
 * Log into to your Github account in your browser
 * Go to https://github.com/settings/keys
 * Add your SSH key
