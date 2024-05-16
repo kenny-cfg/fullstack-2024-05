@@ -17,11 +17,12 @@
 * Press the green `CODE`
 * Press the `SSH` option
 * Copy the `URL`
+  * This should end in your repository name, with a `.git` added
 * In your command line, type the following
 ```
 git clone <url>
 ```
-* `cd <url>`
+* `cd <repository_name>`
 * `code .`
 * Edit away
 * `git add -A`
