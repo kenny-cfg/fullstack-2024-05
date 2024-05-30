@@ -7,3 +7,5 @@
 * [`git`](./cheat_sheets/git.md)
 * [Installing software](./cheat_sheets/install.software.md)
 * [Package management](./cheat_sheets/package.management.md)
+* [npm](./cheat_sheets/npm.md)
+* [TypeScript setup](./cheat_sheets/typescript.setup.md)

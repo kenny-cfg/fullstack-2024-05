@@ -15,14 +15,3 @@ There are two approaches to where the code for these third-party libraries are s
 * In a local folder (for Python in a folder called *the virtual environment*, in node a folder called `node_modules`)
 
 In this course, you should only be concerned about the second approach as that is the one used for the languages that you are using. However, at some point in your career, you'll probably have to deal with languages that follow the first approach.
-
-## Node and npm
-
-* Navigate to the root folder of your new project
-* `npm init`
-* Answer the questions
-* You'll notice a new `package.json` in the root of your project
-* Install a library using `npm install axios` (for example)
-* You notice a new entry in `package.json` for your library, a `package-lock.json` file which specifies exactly what versions of which libraries are installed and a `node_modules` folder where your libraries are stored
-* There is no need to activate/deactivate your virtual environment: it just works in node
-* To delete your virtual environment, delete the `node_modules` folder, `package.json` file, and `package-lock.json`
