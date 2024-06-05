@@ -6,7 +6,7 @@ MySQL Workbench is a unified visual tool for database architects, developers, an
 ## Saving scripts 
 1. Click on the `File` menu at the top left corner
 2. Select `Save Script As...` from the dropdown menu
-3. Alternatively, you can use the shortcut `Ctrl+Shift+S` or `Command + Shift + S` (for mac 🍎)
+3. Alternatively, you can use the shortcut `Ctrl+Shift+S` or `Command + Shift + S` (on Mac 🍎)
 
 ## Opening a File
 1. Go to the File menu at the top left corner
