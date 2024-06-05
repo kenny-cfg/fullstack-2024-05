@@ -3,7 +3,7 @@
 ## Introduction
 MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. It provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, and more.
 
-## Saving scripts 
+## Saving Scripts 
 1. Click on the `File` menu at the top left corner
 2. Select `Save Script As...` from the dropdown menu
 3. Alternatively, you can use the shortcut `Ctrl+Shift+S` or `Command + Shift + S` (on Mac 🍎)
@@ -21,6 +21,6 @@ MySQL Workbench is a unified visual tool for database architects, developers, an
 3. Alternatively, you can use the shortcut `Command + B` on Mac or `Ctrl + B` on Windows
 
 ## Refreshing Table
-1. To refresh your tables, click on the two arrows next to `Schemas` in the **Navigator Schemas Tab** (the `Refresh All` button refreshes all objects in the schema tree by resynchroniing with the server)
+1. To refresh your tables, click on the two arrows next to `Schemas` in the **Navigator Schemas Tab** (the `Refresh All` button refreshes all objects in the schema tree by resynchronizing with the server)
 
 For more advanced features and detailed documentation, visit the [official MySQL Workbench documentation](https://dev.mysql.com/doc/workbench/en/).
