@@ -10,3 +10,4 @@
 * [npm](./cheat_sheets/npm.md)
 * [TypeScript setup](./cheat_sheets/typescript.setup.md)
 * [MySQL Workbench Basic Guide](./cheat_sheets/mysql.workbench.basic.guide.md)
+* [SQL games to practice](https://datalemur.com/blog/games-to-learn-sql)
